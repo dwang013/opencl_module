@@ -1,0 +1,7 @@
+﻿  part2.cpp
+c:\users\monst\desktop\uow\term8\csci376 (sp319) multicore and gpu programming\a3-5988287(wangdong)\part2\part2\part2.cpp(57): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=cl_float
+          ]
+  Part2.vcxproj -> C:\Users\monst\Desktop\UOW\term8\CSCI376 (SP319) Multicore and GPU Programming\A3-5988287(WangDong)\Part2\x64\Debug\Part2.exe
